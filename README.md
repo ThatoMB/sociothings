@@ -1,0 +1,2 @@
+# sociothings
+for sociocash
